@@ -1,0 +1,31 @@
+header{
+    background-color: #238C48;
+    
+}
+
+h1#cabecalho{
+    text-align: center;
+    color: white;
+    
+}
+
+p.cabecalho{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: #E8E5C2;
+    padding: 20px;
+}
+
+main{
+    background-color: white;
+    border-style: solid;
+    padding: 30px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
