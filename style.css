@@ -30,6 +30,18 @@ main{
     padding: 30px;
 }
 
+@font-face {
+    font-family: 'android';
+    src: url('idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+h1#principal{
+    font-family: 'android' , Times, serif;
+    font-size: 2em;
+    font-weight: normal;
+}
+
 footer{
     background-color: black;
     color: white;
