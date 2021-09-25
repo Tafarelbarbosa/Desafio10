@@ -135,6 +135,11 @@ section>p{
     text-indent: 40px;
 }
 
+ol{
+    display: inline-block;
+    padding-right: 210px;
+}
+
 footer{
     background-color: #238C48;;
     color: white;
