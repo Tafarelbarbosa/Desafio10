@@ -39,7 +39,8 @@ body{
 
 main{
     background-color: white;
-    margin: 0px 186px;
+    margin: auto 101px;
+    padding: 30px;
 }
 
 @font-face {
@@ -55,6 +56,7 @@ div>h1{
     font-weight: bolder;
     text-align: left;
     text-indent: 5px;
+    margin:0px;
 }
 
 div>h2{
@@ -66,12 +68,83 @@ div>h2{
     text-indent: 5px;
 }
 
-div>p{
-    text-indent: 10px;
+img.roboses{
+    height: 200px;
+    width: 80%;
+    border-width: 40px;
+    border-style: solid;
+    border: white;
+    margin:0px 90px;
 }
 
+p{
+    text-indent: 20px;
+}
+
+img.irina{
+    height: 300px;
+    width: 90%;
+    border-width: 40px;
+    border-style: solid;
+    border-color: white;
+    margin:auto;
+}
+
+p.human{
+    text-align: center;
+    text-indent: 0px;
+}
+
+iframe{
+    height: 350px;
+    width: 96%;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #238C48;
+    margin: auto;   
+    
+}
+
+p.video{
+    text-align: center;
+}
+
+article{
+    background-color: white;
+}
+
+article>section{
+    background-color: #59726f75;
+    border-radius: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+section>h3{
+    background-color: rgb(84, 214, 153);
+    height: 30px;
+    width: 100%;
+    margin: 0px;
+    color: white;
+    font-weight: bolder;
+    text-indent: 20px;
+    border-radius: 5px;
+}
+
+section>p{
+    text-indent: 40px;
+}
 
 footer{
-    background-color: black;
+    background-color: #238C48;;
     color: white;
+    margin: 0px;
 }
+
+footer>p{
+    margin: 0px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
