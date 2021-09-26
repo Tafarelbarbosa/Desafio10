@@ -60,6 +60,8 @@ div>h1{
 }
 
 div>h2{
+    background-color: #6781701f;
+    width: 260px;
     font-family: 'android' , Times, serif;
     color: #238C48;
     font-size: 1em;
@@ -141,7 +143,7 @@ ol{
 }
 
 footer{
-    background-color: #238C48;;
+    background-color: #238C48;
     color: white;
     margin: 0px;
 }
@@ -152,4 +154,13 @@ footer>p{
     font-weight: bolder;
 }
 
+span.color{
+    color: #238C48;
+    font-weight: bolder;
+}
+
+a.link{
+    color: #238C48;
+    font-weight: bolder;
+}
 
